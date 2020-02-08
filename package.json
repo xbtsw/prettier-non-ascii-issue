@@ -1,0 +1,22 @@
+{
+  "name": "prettier-non-ascii-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "prettier --list-different \"**/*.json\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbtsw/prettier-non-ascii-issue.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbtsw/prettier-non-ascii-issue/issues"
+  },
+  "homepage": "https://github.com/xbtsw/prettier-non-ascii-issue#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
